@@ -1,0 +1,4 @@
+gymnasium[atari]>=1.0,<2
+ale-py>=0.10,<1
+numpy>=1.26,<3
+matplotlib>=3.8,<4
